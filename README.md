@@ -1,4 +1,4 @@
-<h1 align="center">PYbot Botnet</h1>
+<h1 align="center">Python Botnet Interface</h1>
 
 <p align="center">
     <img width="629" height="370" src="https://raw.githubusercontent.com/WodxTV/PYbot/master/preview.png">
